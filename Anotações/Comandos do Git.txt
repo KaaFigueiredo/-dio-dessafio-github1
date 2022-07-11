@@ -1,0 +1,3 @@
+git add . ou git add -a -Adiciona pasta novas ao controle de versão
+git commit -m "" -Colocar mensagem/comentarios para identificar o que foi feito.
+git push origin main  -Mandar para nuvem
